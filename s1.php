@@ -31,8 +31,8 @@ x=self.location.replace("Galaxy.php");
 }
 </script>
 
-
-<body bgcolor="#FFFFCC">
+s
+<body style="background:green;">
 <table class="main_body" width="900" align="center" border="0" cellpadding="0" cellspacing="0">
 
    <tbody><tr>
